@@ -5,3 +5,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] System design document required
+- [ ] Gather system requirement
+- [ ] Complete wireframe design
